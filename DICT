@@ -1,0 +1,16 @@
+#pop method dictionary
+dict={1:"hi",2:"ok",3:"going"}
+dict.pop(1)
+print(dict)
+
+
+
+#clear method dictionary
+dict={1:"hi",2:"ok",3:"going"}
+dict.clear()
+print(dict)
+
+#delete method
+dict={1:"hi",2:"ok",3:"going"}
+del dict
+print(dict)
