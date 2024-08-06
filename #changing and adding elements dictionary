@@ -1,0 +1,5 @@
+#changing and adding elements dictionary
+dict={1:"hi",2:"ok",3:"going"}
+print(dict)
+dict[2]="noooooo"
+print(dict)
