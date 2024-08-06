@@ -1,0 +1,6 @@
+#pop method-remove and return from at last place
+lis=[1,2,3]
+lis.pop()
+print(lis)
+lis.pop()
+print(lis)
