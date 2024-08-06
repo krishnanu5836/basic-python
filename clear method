@@ -1,0 +1,5 @@
+#clear method-clears all elements in the list
+list=[1,2,3]
+print(list)
+list.clear()
+print(list)
