@@ -1,0 +1,6 @@
+#append method-adds the element in list
+list=[]
+list.append(42)
+print(list)
+list.append(80)
+print(list)
