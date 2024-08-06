@@ -1,0 +1,4 @@
+#index method-return the position of occurance of value
+list=["hlo","bye","gooood",89]
+print(list.index("hlo"))
+list.index(89)
